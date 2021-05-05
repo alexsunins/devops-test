@@ -1,2 +1,2 @@
 #!/bin/bash
-forever start /var/nodeapp/src/index.js
+forever start /var/nodeapp/index.js
